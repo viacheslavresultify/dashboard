@@ -7,9 +7,6 @@
   "replace": {
     "dashboard": "self.version"
   },
-  "require": {
-    "typo3/cms": "~8.7"
-  },
   "autoload": {
     "psr-4": {
       "TYPO3\\CMS\\Dashboard\\": "Classes/"
